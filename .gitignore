@@ -1,3 +1,4 @@
 **/__pycache__
 **/.vscode
-keys.py
+**/credentials.yaml
+**/teste.py

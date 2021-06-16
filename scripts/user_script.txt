@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cd /home/ubuntu/
+sudo apt update
+cat << EOF > juju_script.txt
+{juju_script}
+EOF
+chmod +x juju_script.txt
